@@ -1,0 +1,3 @@
+name: ItsMonkeyyy-t3
+main: com.tenjava.entries.ItsMonkeyyy.t3.TenJava
+version: '${project.version}'
